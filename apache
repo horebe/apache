@@ -1,4 +1,7 @@
-<VirtualHost>
+<VirtualHost *:80>
+
 DocumentRoot "/var/www/web1/"
 ServerName localhost
+
 </VirtualHost>
+
